@@ -3,6 +3,3 @@
 	filemode = true
 	bare = false
 	logallrefupdates = true
-[remote "Inong9"]
-	url = https://github.com/inong9
-	fetch = +refs/heads/*:refs/remotes/Inong9/*

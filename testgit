@@ -1,3 +1,10 @@
 Hello git
 
 Nambah text
+<<<<<<< Updated upstream
+=======
+
+Branch test
+
+Test lagi nih
+>>>>>>> Stashed changes
